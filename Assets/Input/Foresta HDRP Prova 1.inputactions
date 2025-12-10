@@ -7,7 +7,7 @@
             "actions": [
                 {
                     "name": "Move",
-                    "type": "Value",
+                    "type": "PassThrough",
                     "id": "0af32e24-4252-4d48-b055-8fba7d2785bc",
                     "expectedControlType": "Vector2",
                     "processors": "",
@@ -316,34 +316,12 @@
                 },
                 {
                     "name": "",
-                    "id": "c07ddf69-cf52-428f-a924-f57c89b32129",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Attack",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
                     "id": "5ae6224f-07e6-4752-8d15-aa0c6384b027",
-                    "path": "<Keyboard>/e",
+                    "path": "<Mouse>/leftButton",
                     "interactions": "",
                     "processors": "",
                     "groups": ";Keyboard&Mouse",
                     "action": "Attack",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "b1831b32-5e41-47a5-b006-973a487530cf",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Defend",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
